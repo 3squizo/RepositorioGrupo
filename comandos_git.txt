@@ -1,0 +1,5 @@
+git clone <url>          
+git pull                 
+git switch -c <rama>    
+git add .                
+git commit -m "mensaje"
